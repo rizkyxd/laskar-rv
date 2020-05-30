@@ -64,11 +64,11 @@ logo ="""
 \033[1;96m█.    _-_-- -_ --  Anonymous Indonesia
 \033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
 \033[1;96m█████████   SUBSCRIBE NOW TO MY CHANNELL ...!!
-\033[1;96m ██ ██      CRACK FB  by RendY  Tutorial                    
+\033[1;96m ██ ██      CRACK FB BY Rizky Maulana Sidik                    
 \033[1;93m╔═══════════════════════════════════════════╗
-\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mTutorialTermux\033[1;93m                 ║
-\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4mAnonymous\033[0m \033[1;93m                     ║
-\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mAnonymous Indonesia\033[0m \033[1;93m           ║
+\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mRizkyMaulanaSidikXD\033[1;93m                 ║
+\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4mRizkyMaulanaXD\033[0m \033[1;93m                     ║
+\033[1;93m║\033[1;96m¤ \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[4mRizky Maulana S\033[0m \033[1;93m           ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
 
@@ -113,14 +113,14 @@ def an():
         os.system('reset')
         print logo
         time.sleep(1)
-        print 'Silahkankan Subscribe ke channell RendY Tutorial !!'
+        print 'Silahkankan Subscribe ke channell Rizky Maulana S !!'
         time.sleep(3)
         print 'Semoga yang gk subscribe mandul awokwokwokk Amin...!!'
 
         print 'Biasanya yng gk subrek gk bisa login'
         time.sleep(5)
-        os.system('xdg-open https://www.youtube.com/channel/UCXEXrP0rqmX7rYk2qKcjnzQ ')
-        print 'name = RY  dan   Pasw = GANS '
+        os.system('xdg-open youtube.com/channel/UCliEHmQxdnSc9cTOKD32SQA ')
+        print 'name = Revolution  dan   Pasw = Neverdie '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
         uname = raw_input('\n\x1b[32;1m[\x1b[33;1m#\x1b[32;1m]\x1b[37;1m Username : ')
@@ -295,7 +295,7 @@ def pilih():
 		menu()
 	elif zedd =="4":
 		os.system('rm -rf login.txt')
-		os.system('xdg-open https://www.youtube.com/channel/UCz5Z718-ZRUy9aBzCAHqrug')
+		os.system('xdg-open youtube.com/channel/UCliEHmQxdnSc9cTOKD32SQA')
 		keluar()
 	elif zedd =="0":
 		keluar()
