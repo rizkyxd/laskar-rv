@@ -67,7 +67,7 @@ logo ="""
 \033[1;96m ██ ██      CRACK FB BY Rizky Maulana Sidik                    
 \033[1;93m╔═══════════════════════════════════════════╗
 \033[1;93m║\033[1;96m¤ \033[1;93mScript By  \033[1;93m: \033[1;93mRizkyMaulanaSidikXD\033[1;93m                 ║
-\033[1;93m║\033[1;96m¤ \033[1;93mFacebook  \033[1;93m    : \033[1;93m\033[4mhttps://www.facebook.com/C3O.REVOLUTION.ID\033[0m \033[1;93m                     ║
+\033[1;93m║\033[1;96m¤ \033[1;93mFacebook  \033[1;93m    : \033[1;93m\033[4mFacebook.com/C3O.REVOLUTION.ID\033[0m \033[1;93m                     ║
 \033[1;93m║\033[1;96m¤ \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[4mRizky Maulana S\033[0m \033[1;93m           ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
